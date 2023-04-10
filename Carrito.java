@@ -8,7 +8,7 @@ public class Carrito {
 	  public Carrito(Pers cli, int num) {
 	    	this.num = num;
 		    cliente = cli;
-		    montoTotal = 0.0;
+		    montoTotal = 0;
 	}
 	  public int Num() {
 	    	return num;
