@@ -5,7 +5,7 @@ package pack1;
           public Pers(String nom) {
 	         	nombre = nom;
 	}
-	      public String Nombre() {
-	          return nombre;
-	      }
+	     public String Nombre() {
+	         return nombre;
+	     }
       }
